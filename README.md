@@ -36,7 +36,7 @@ $ mvn clean install
 version 0.7.5 - 'Dugong Weasel'
 
 # Contributions?
-Contributions are highly welcome. If you're interested in contributingÂ please leave a note with your username.
+Contributions are highly welcome. If you're interested in contributing please leave a note with your username.
 
 # Policy for Security Disclosures
 If you suspect you have uncovered a vulnerability, contact us privately, as outlined in our security policy document; we will immediately prioritize your disclosure.
